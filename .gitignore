@@ -1,0 +1,11 @@
+# Obsidian configuration and workspace
+.obsidian/
+
+# macOS system files
+.DS_Store
+
+# Daily notes (untracked content)
+????-??-??.md
+
+# Copilot custom prompts
+copilot/
